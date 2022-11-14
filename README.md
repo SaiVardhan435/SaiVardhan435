@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaiVardhan435
 - 👀 I’m interested in listening to music!
 - 🌱 I’m currently pursuing Electronics & Communications Engineering!
-- 💞️ I’m looking to collaborate with the people who solve DSA in various programming language!
+- 💞️ I’m looking to collaborate with the people who solve DSA in various programming languages.
 - 📫 How to reach me:linktr.ee/saivardhan435
 
 <!---
